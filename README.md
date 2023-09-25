@@ -1,5 +1,5 @@
 <h1>Bom Dia</h1>
-[Header](github-header-image.png)
+<img src="github-header-image.png">
 - Estudiant Cicle Superior [DAM] (https://copernic.cat/)
 
 - Correo: **acardus0@gmail.com**
