@@ -1,6 +1,7 @@
 <h1>Bienvenido a mi Portafolio</h1>
 <img src="github-header-image (2).png">
 <h3 align="left">Conecta conmigo</h3>
+
 - Estudios: [DAM](https://copernic.cat/)
 
 - Correo: **acardus0@gmail.com**
