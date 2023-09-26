@@ -2,6 +2,9 @@
 <img src="github-header-image (2).png">
 <h3 align="left">Conecta conmigo</h3>
 
+- Sobre mi: Soy una alumno de un ciclo superior sobre programación, he estado siempre interesado en la informatica y desde 2020 empece a formare para en el mundillo de la informatica con un ciclo medio sobre
+  sistemas informaticos y seguido un ciclo superior especifico sober informatica.
+
 - Estudios: [DAM](https://copernic.cat/)
 
 - Correo: **acardus0@gmail.com**
